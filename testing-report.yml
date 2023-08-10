@@ -9,7 +9,7 @@
 
 - summary: |
     Проверить постраничное переключение.
-  status: pass
+  status: fail
   
 - summary: |
     Проверка работы поиска.
